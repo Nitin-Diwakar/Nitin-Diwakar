@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQEiPakD2683BA/profile-displaybackgroundimage-shrink_350_1400/0/1615366574717?e=1623888000&v=beta&t=8A03GYOMhiSlzB26rejj0m7O8_pse-x3ip1K6OimOM4)
+<!-- ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQEiPakD2683BA/profile-displaybackgroundimage-shrink_350_1400/0/1615366574717?e=1623888000&v=beta&t=8A03GYOMhiSlzB26rejj0m7O8_pse-x3ip1K6OimOM4) -->
 
 
 <h1 align="center">Hi 👋, I'm Nitin Diwakar</h1>
