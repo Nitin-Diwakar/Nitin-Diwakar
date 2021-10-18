@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-diwakar" alt="nitin-diwakar" /></a> </p>
 
-- 🌱 I’m currently learning **Competitive Programming, Android Developement**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 📫 How to reach me **diwakarnitin509@gmail.com**
 
