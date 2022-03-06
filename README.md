@@ -72,7 +72,7 @@
 
 <p>&nbsp;<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=nitin-diwakar&show_icons=true&locale=en&theme=onedark" alt="nitin-diwakar" /></p>
 
-<p margin="0px 50px 0 0"><img align='left' height="280px" width="455px" src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-diwakar&theme=onedark" alt="nitin-diwakar" /></p>
+<p margin="0px 50px 0 0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-diwakar&theme=onedark" alt="nitin-diwakar" /></p>
 
 
 <br>
