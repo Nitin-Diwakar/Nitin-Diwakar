@@ -72,10 +72,11 @@
 
 <p>&nbsp;<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=nitin-diwakar&show_icons=true&locale=en&theme=onedark" alt="nitin-diwakar" /></p>
 
-<p margin="0px 50px 0 0"><img  height="280px" width="455px" src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-diwakar&theme=onedark" alt="nitin-diwakar" /></p>
+<p margin="0px 50px 0 0"><img align='left' height="280px" width="455px" src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-diwakar&theme=onedark" alt="nitin-diwakar" /></p>
 
 
 <br>
+ 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
