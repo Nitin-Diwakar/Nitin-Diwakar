@@ -58,7 +58,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitindiwakar&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nitin-Diwakar&compact=True"/>
 </a>
   
 <br>
@@ -69,13 +69,13 @@
 ![Metrics](https://metrics.lecoq.io/Nitin-Diwakar?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitin-diwakar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nitin-Diwakar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-diwakar&show_icons=true&locale=en&layout=compact" alt="nitin-diwakar" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-Diwakar&show_icons=true&locale=en&layout=compact" alt="nitin-diwakar" /></p> -->
 
-<p>&nbsp;<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=nitin-diwakar&show_icons=true&locale=en&theme=onedark" alt="nitin-diwakar" /></p>
+<p>&nbsp;<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=Nitin-Diwakar&show_icons=true&locale=en&theme=onedark" alt="nitin-diwakar" /></p>
 
-<p margin="0px 50px 0 0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-diwakar&theme=onedark" alt="nitin-diwakar" /></p>
+<p margin="0px 50px 0 0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Diwakar&theme=onedark" alt="nitin-diwakar" /></p>
 
 
 <br>
