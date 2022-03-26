@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Nitin Diwakar](https://user-images.githubusercontent.com/72300414/156910196-682c20ec-9635-4baf-aa93-a70cdd525df6.jpg)
-
+![snake gif](https://github.com/Nitin-Diwakar/Nitin-Diwakar/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <img width="100%" height = "100%" src="https://media.giphy.com/media/MtHDfK3v8fYlWR3MlX/giphy.mp4" alt="cover" /> -->
 </div> 
@@ -77,6 +77,8 @@
 
 
 <br>
- 
+ <br>
 
-<!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
+  
+
+
