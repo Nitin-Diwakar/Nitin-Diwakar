@@ -2,13 +2,15 @@
 
 ![Nitin Diwakar](https://user-images.githubusercontent.com/72300414/156910196-682c20ec-9635-4baf-aa93-a70cdd525df6.jpg)
   
-### Snake eating my Contribution
+  <h2>Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
+  
+  
 ![snake gif](https://github.com/Nitin-Diwakar/Nitin-Diwakar/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <img width="100%" height = "100%" src="https://media.giphy.com/media/MtHDfK3v8fYlWR3MlX/giphy.mp4" alt="cover" /> -->
 </div> 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://media1.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif?cid=ecf05e4782vps2qkhce0jtzuopkw5hxcjmv0763oec4bip7r&rid=giphy.gif&ct=s" width = 50px> </h1>
 <p align='center'>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nitin-Diwakar.Nitin-Diwakar) -->
@@ -17,7 +19,7 @@
 <div size='20px'> Hi! My name is Nitin Diwakar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/6n6N2o22gKVeDQDGy8/200w.webp?cid=ecf05e47rhmu4ynnczx5p26hnzx6m91hxbpn7wa1touscdug&rid=200w.webp&ct=s" width = 60px position=relative></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
