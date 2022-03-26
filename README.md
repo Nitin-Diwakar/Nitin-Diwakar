@@ -69,15 +69,13 @@
 ![Metrics](https://metrics.lecoq.io/Nitin-Diwakar?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nitin-Diwakar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nitin-Diwakar&theme=chartreuse-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-Diwakar&show_icons=true&locale=en&layout=compact" alt="nitin-diwakar" /></p> -->
 
-<p>&nbsp;<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=Nitin-Diwakar&show_icons=true&locale=en&theme=onedark" alt="nitin-diwakar" /></p>
+<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=Nitin-Diwakar&show_icons=true&locale=en&theme=chartreuse-dark" alt="nitin-diwakar" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Diwakar&theme=chartreuse-dark" alt="nitin-diwakar" />
 
-<p margin="0px 50px 0 0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Diwakar&theme=onedark" alt="nitin-diwakar" /></p>
-
-
+<!-- </p><p margin="0px 50px 0 0"> -->
 <br>
  <br>
 
