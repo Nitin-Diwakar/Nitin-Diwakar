@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Machine learning, OpenCV**
 
-<!-- - 👯 I’m looking to collaborate on  -->
+
 
 - ⚡ Fun fact **I'm a PALINDROME**
 
