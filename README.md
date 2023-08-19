@@ -1,8 +1,29 @@
 [![](https://visitcount.itsvg.in/api?id=Nitin-Diwakar&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![intro](https://github.com/Nitin-Diwakar/Nitin-Diwakar/assets/72300414/dba01877-430c-42c3-b6c4-9e14c5102be8)
+
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+```yaml
+name: Nitin Diwakar
+located_in: Kanpur, Uttar Pradesh
+current_job: Learning📝 and Sleeping💤
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science and Engineering Graduate",
+  ]
+company: you tell😂
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+  ]
+  
+currently_learning: ["PowerBI, Advance SQL", "Java Language"]
+hobbies: ["Gaming", "Web Series Lover", "Photography"]
+```
 
 
 ## 🌐 Socials:
@@ -27,4 +48,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=100&width=3220&section=footer)
