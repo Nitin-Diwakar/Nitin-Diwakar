@@ -7,21 +7,23 @@
 # 💫 About Me:
 ```yaml
 name: Nitin Diwakar
-located_in: Kanpur, Uttar Pradesh
+located_in: Bengaluru, Karnataka
 current_job: Learning📝 and Sleeping💤
 education:
   [
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Science and Engineering Graduate",
+    "Working Professionally as a Data Scientist and specific field is Computer Vision
   ]
 company: you tell😂
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Data Analyst",
+    "Data Scientist",
+    "Data Engineering",
   ]
   
-currently_learning: ["PowerBI, Advance SQL", "Java Language"]
+currently_learning: ["Snowflake, Big Data", "AWS", "Airflow"]
 hobbies: ["Gaming", "Web Series Lover", "Photography"]
 ```
 
