@@ -27,6 +27,7 @@ currently_learning: ["Snowflake, Big Data", "AWS", "Airflow"]
 hobbies: ["Gaming", "Web Series Lover", "Photography"]
 ```
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68bfbfe50f364a5c6ef734e5?variant=dark)](https://roadmap.sh)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nitin.diwakar.9231) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diwakarnitin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NitinDi37789650) 
